@@ -14,6 +14,6 @@
 [![GitHub Siddhant](https://img.shields.io/github/followers/sidk003?label=follow&style=social)](https://github.com/sidk003)
 </br>
 ### Connect with me:
-[<img align="left" alt="vidit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="siddhant" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://github.com/sidk003)
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidk003&theme=tokyonight)
