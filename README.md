@@ -12,3 +12,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidk003&show_icons=true)
 </br>
 [![GitHub Siddhant](https://img.shields.io/github/followers/sidk003?label=follow&style=social)](https://github.com/sidk003)
+</br>
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidk003&theme=tokyonight)
