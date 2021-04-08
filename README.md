@@ -16,6 +16,5 @@
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidk003&theme=tokyonight)
 
-### Connect with me:
-[<img align="left" alt="siddhant" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/siddhant-kulshrestha-272734155/)
+### Connect with me: [<img align="left" alt="siddhant" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/siddhant-kulshrestha-272734155/)
 </br>
