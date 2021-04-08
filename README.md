@@ -10,7 +10,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </br>
 </br>
-</br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidk003&show_icons=true)
-
+</br>
 [![GitHub Siddhant](https://img.shields.io/github/followers/sidk003?label=follow&style=social)](https://github.com/sidk003)
